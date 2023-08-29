@@ -7,5 +7,5 @@
 + Discord: pplayerru
 + Telegram: https://t.me/pplayerru
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pplayerru&layout=compact)
 ![My Stats](https://github-readme-stats.vercel.app/api?username=pplayerru&show_icons=true&count_private=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lunarelly&layout=compact)

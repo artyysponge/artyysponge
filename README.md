@@ -7,4 +7,4 @@
 + Discord: pplayerru
 + Telegram: https://t.me/pplayerru
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=Lunarelly&show_icons=true&count_private=true&hide_title=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=pplayerru&show_icons=true&count_private=true&hide_title=true)

@@ -1,5 +1,5 @@
-### 👋
-+ I am currently studying: PHP
+### Hello, everyone! 👋
++ I am currently studying: PHP Programming Language
 
 ## Contact me:
 

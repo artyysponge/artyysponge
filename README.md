@@ -1,7 +1,7 @@
-###👋
+### 👋
 + I am currently studying: PHP
 
-##Contact me:
+## Contact me:
 
 + VK: https://vk.com/pplayer
 + Discord: pplayerru
